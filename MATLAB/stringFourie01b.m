@@ -1,4 +1,4 @@
-function stringFourie01
+function stringFourie01b
 clf; clc
 
 L=pi*sqrt(2); a=1/2;
