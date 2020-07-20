@@ -4,7 +4,6 @@ Project|Solution|MATLAB code
 СИ20-П-38|[SOLUTION](https://github.com/andy489/DEA/blob/master/Projects/Project%2038.pdf)|[stringDalambert38](https://github.com/andy489/DEA/blob/master/Projects/Project%2038%20code.m)
 СИ20-П-72|[SOLUTION](https://github.com/andy489/DEA/blob/master/Projects/Project%2072.pdf)|[stringDalambert72](https://github.com/andy489/DEA/blob/master/Projects/Project%2072%20code.m)
 
-<br><br>
 Subdomain|Theme|Solution
 :-:|:-:|:-:
 FMI>Control Test|Control Test 02/06/2020| [C-4](https://github.com/andy489/DEA/blob/master/FMI/Control%20Test%20C-4%2002:06:2020.pdf)
