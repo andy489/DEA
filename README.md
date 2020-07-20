@@ -26,3 +26,8 @@ FMI>Tasks|Exam Preparation|[Task 20](https://github.com/andy489/DEA/blob/master/
 FMI>Tasks|Exam Preparation|[Task 21](https://github.com/andy489/DEA/blob/master/FMI/Task%2021.pdf)
 FMI>Tasks|Exam Preparation|[Task 22](https://github.com/andy489/DEA/blob/master/FMI/Task%2022.pdf)
 FMI>Tasks|Exam Preparation|[Task 23](https://github.com/andy489/DEA/blob/master/FMI/Task%2023.pdf)
+
+Project|Solution|MATLAB code
+:-:|:-:|:-:
+СИ20-П-38|[Solution]()|[stringDalambert38]()
+СИ20-П-72|[Solution](https://github.com/andy489/DEA/blob/master/Project%2072.pdf)|stringDalambert72()
