@@ -1,6 +1,7 @@
 Subdomain|Theme|Solution
 :-:|:-:|:-:
-FMI>Control Test|Control Test 02/06/2020| [C-14](https://github.com/andy489/DEA/blob/master/FMI/Control%20Test/Contol%20Test%20C-14%2002:06:2020%20.pdf)
+FMI>Control Test|Control Test 02/06/2020| [C-4](https://github.com/andy489/DEA/blob/master/FMI/Control%20Test%20C-4%2002:06:2020.pdf)
+FMI>Control Test|Control Test 02/06/2020| [C-14](https://github.com/andy489/DEA/blob/master/FMI/Contol%20Test%20C-14%2002:06:2020%20.pdf)
 FMI>Tasks|Control Test Preparation|[Tasks 01-12](https://github.com/andy489/DEA/blob/master/Sample%20Control%20Test%20Tasks%20Solutions.pdf)
 FMI>Tasks|Exam Preparation|[Task 01](https://github.com/andy489/DEA/blob/master/FMI/Task%2001.pdf)
 FMI>Tasks|Exam Preparation|[Task 02](https://github.com/andy489/DEA/blob/master/FMI/Task%2002.pdf)
