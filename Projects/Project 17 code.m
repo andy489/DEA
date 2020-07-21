@@ -1,4 +1,4 @@
-function fourieString17
+function stringFourie17
 	clf; clc
 	a=sqrt(11/4);
 	L=9/2;
