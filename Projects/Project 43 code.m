@@ -8,7 +8,6 @@
 %    		grid on
 %end
 
-
 function symbolically43 
     		[x,y]=dsolve('Dx=y', 'Dy=2*y-17*x', 'x(0)=1', 'y(0)=1') 
     		t=0:0.1:8; 
