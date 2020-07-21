@@ -29,7 +29,8 @@ function fourieString17
 			Xk=sin((pi/2+k*pi)*x/L);
 			Ak=2*trapz(x,phi(x).*Xk)/L;
 			Bk=(4*trapz(x,psi(x).*Xk))/(a*(pi+2*k*pi));
-			Tk=Ak*cos((a*(pi+2*k*pi)*t)/(2*L))+Bk*sin((a*(pi+2*k*pi)*t)/(2*L));				y=y+Tk*Xk;
+			Tk=Ak*cos((a*(pi+2*k*pi)*t)/(2*L))+Bk*sin((a*(pi+2*k*pi)*t)/(2*L));				
+			y=y+Tk*Xk;
 		end
 	end
 
