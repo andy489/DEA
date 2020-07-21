@@ -1,7 +1,7 @@
 Project|Solution|MATLAB code
 :-:|:-:|:-:
 СИ20-П-12|[SOLUTION](https://github.com/andy489/DEA/blob/master/Projects/Project%2012.pdf)|[phasePortrait12](https://github.com/andy489/DEA/blob/master/Projects/Project%2012%20code.m)
-СИ20-П-17|[SOLUTION](https://github.com/andy489/DEA/blob/master/Projects/Project%2017.pdf)|[stringFourie](https://github.com/andy489/DEA/blob/master/Projects/Project%2017%20code.m)
+СИ20-П-17|[SOLUTION](https://github.com/andy489/DEA/blob/master/Projects/Project%2017.pdf)|[stringFourie17](https://github.com/andy489/DEA/blob/master/Projects/Project%2017%20code.m)
 СИ20-П-38|[SOLUTION](https://github.com/andy489/DEA/blob/master/Projects/Project%2038.pdf)|[stringDalambert38](https://github.com/andy489/DEA/blob/master/Projects/Project%2038%20code.m)
 СИ20-П-48|[SOLUTION](https://github.com/andy489/DEA/blob/master/Projects/Project%2048.pdf)|[harmonicOscillator48](https://github.com/andy489/DEA/blob/master/Projects/Project%2048%20code.m)
 СИ20-П-72|[SOLUTION](https://github.com/andy489/DEA/blob/master/Projects/Project%2072.pdf)|[stringDalambert72](https://github.com/andy489/DEA/blob/master/Projects/Project%2072%20code.m)
