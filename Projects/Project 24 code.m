@@ -15,7 +15,7 @@ for k = 1:length(x)
     end
 end
 [x0, y0] = ginput(1);
-diff_eq = dsolve('Dy=x*(y+2)*sin(x*x-1)','y(x0)=y0','x')
+diff_eq = dsolve('Dy=x*(y+2)*sin(x*x-1)','y(x0)=y0','x');
 x= -5:0.01:5;
 plot(x,eval(diff_eq),'r')
 end
