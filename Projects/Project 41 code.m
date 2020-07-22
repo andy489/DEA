@@ -1,4 +1,4 @@
-function fourieThermalConductivityEquation41
+function fourieThermalConductivity41
 clf; clc
 	a=0.2;
 	L=3*pi;
