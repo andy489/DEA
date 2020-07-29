@@ -40,3 +40,4 @@ FMI>Tasks|Exam Preparation|[Task 20](https://github.com/andy489/DEA/blob/master/
 FMI>Tasks|Exam Preparation|[Task 21](https://github.com/andy489/DEA/blob/master/FMI/Task%2021.pdf)
 FMI>Tasks|Exam Preparation|[Task 22](https://github.com/andy489/DEA/blob/master/FMI/Task%2022.pdf)
 FMI>Tasks|Exam Preparation|[Task 23](https://github.com/andy489/DEA/blob/master/FMI/Task%2023.pdf)
+FMI>Tasks|Exam 73 2020|[Task 01](https://github.com/andy489/DEA/blob/master/FMI/Exam%202020%20Task%2001.pdf)
